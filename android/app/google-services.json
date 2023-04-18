@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192644806977",
+    "project_id": "movei-b093e",
+    "storage_bucket": "movei-b093e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192644806977:android:c6f67ce1e9608b1ac789c0",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192644806977-mmlfjkenlmmhnelu4iuopeejgdh39uro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_app",
+            "certificate_hash": "19c77fcd74c1958ed60c76a6a091e1ddc24e030c"
+          }
+        },
+        {
+          "client_id": "192644806977-273k1p49nfbv0tvpavjvdusfqi9vsain.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsndnWozjFIr34chc52lK3OEHFS6rnqQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192644806977-273k1p49nfbv0tvpavjvdusfqi9vsain.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
